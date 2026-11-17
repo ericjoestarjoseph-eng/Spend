@@ -1,0 +1,6 @@
+{
+  "name": "SmartSpend",
+  "description": "AI-powered personal expense tracker with interactive financial charts, automated transaction categorization, anomaly detection, CSV import, and monthly budget analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
